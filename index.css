@@ -1,0 +1,10 @@
+body {
+    background-color: blueviolet;
+
+}
+
+
+div {
+    height: 500px;
+    background: radial-gradient(purple, pink, yellow, cyan, silver, gold, orange, blueviolet, violet);
+}
